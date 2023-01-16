@@ -17,3 +17,11 @@
 8. git push -u origin main -> push from local repo to remote repo
 
 9. git pull -> pull from github
+
+# Java Compile and run application
+
+1. cd (into java files directory)
+
+2. javac -d . *.java
+
+3. java -cp . sg.edu.nus.iss/App
