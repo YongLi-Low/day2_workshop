@@ -1,4 +1,4 @@
-
+- Git commands
 
 1. git init -> initialise a local git repo (only do it once for a project)
 
